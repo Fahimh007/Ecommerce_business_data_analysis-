@@ -135,7 +135,3 @@ underlying metrics, while the notebook documents the preparation steps.
 - Add customer-level retention and repeat-purchase analysis.
 - Track delivery time, fulfilment performance, and late deliveries.
 - Automate refreshes and publish the dashboard to Power BI Service.
-
-## License
-
-This repository is intended for educational and portfolio use.
